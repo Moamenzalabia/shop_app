@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-- A simple ad-free app that works totally online, made for the users who just want to have a simple app to know last Products
+- A simple ad-free app that works totally online, made for the users who just want to have a simple app to know new Products
 - As it requires an account, it is the simplest work ticker without any compromise on privacy. This app works totally online.
 
 ## Tech Stacks Used
@@ -23,9 +23,9 @@ A new Flutter project.
 
 - Ability to Registration in Shop App
 - Ability to log in in Shop App
-- a list of Products by clicking the Home Tab
-- a list of Favorites Products by clicking the Favorites Tab
-- a list of Categories by clicking the Categories Tab
+- A list of Products by clicking the Home Tab
+- A list of Favorites Products by clicking the Favorites Tab
+- A list of Categories by clicking the Categories Tab
 - Ability to search on specific Product
 - Ability to add the specific Product to the Favorites list
 - Ability to update your profile data
